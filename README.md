@@ -2,8 +2,8 @@
 
 ### Consist of codes on Data Cleaning (e.g to balance imbalance data when we are interested in rare cases) and model building such as Linear Regression, Logistic Regression and Classification and Regression Tree.
 
-#### Team Challenge 1
-#### Team Challenge 2
+#### [Team Challenge 1](https://github.com/Joash-JW/Analytics-1-Predictive-Analytics/blob/master/README.md#team-challenge-1-1)
+#### [Team Challenge 2]
 #### Work Force Analytics Project
 
 ##### Team Challenge 1:
