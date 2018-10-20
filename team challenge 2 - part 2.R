@@ -1,4 +1,4 @@
-setwd("C:\\Users\\NTU\\Desktop\\UNI\\2018 - 19 SEM 1\\BC2406 Analytics 1\\Rcodes & Data")
+#set ur working directory
 library(caret)
 library(data.table)
 library(rpart)
