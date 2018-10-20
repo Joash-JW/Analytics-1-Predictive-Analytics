@@ -2,9 +2,10 @@
 
 ### Consist of codes on Data Cleaning (e.g to balance imbalance data when we are interested in rare cases) and model building such as Linear Regression, Logistic Regression and Classification and Regression Tree.
 
-#### [Team Challenge 1](https://github.com/Joash-JW/Analytics-1-Predictive-Analytics/blob/master/README.md#team-challenge-1-1)
-#### [Team Challenge 2]
-#### Work Force Analytics Project
+#### List of Projects:
+ - #### [Team Challenge 1](https://github.com/Joash-JW/Analytics-1-Predictive-Analytics/blob/master/README.md#team-challenge-1-1)
+ - #### [Team Challenge 2](https://github.com/Joash-JW/Analytics-1-Predictive-Analytics/blob/master/README.md#team-challenge-2-1)
+ - #### Work Force Analytics Project (in progress)
 
 ##### Team Challenge 1:
   - United States District Court of Houston had a case that arises under Title VII of the Civil Rights Act of 1964, 42 U.S.C. 200e et seq.  The plaintiffs in this case were all female doctors at Houston College of Medicine who claimed that the College has engaged in a pattern and practice of discrimination against women in giving promotions and setting salaries. [Click here for more details of the case](https://www.kaggle.com/hjmjerry/gender-discrimination/home)
